@@ -1,0 +1,8 @@
+Django
+django-model-utils
+asgiref
+types-pkg-resources
+psycopg2
+pytz
+sqlparse
+Unipath

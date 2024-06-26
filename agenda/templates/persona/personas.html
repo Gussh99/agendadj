@@ -1,0 +1,7 @@
+<h2>Lista personas</h2>
+<input type="text" placeholder="Buscar...">
+<ul>
+    {% for persona in personas%}
+        <li>{{persona}}</li>
+    {% endfor %}
+</ul>
